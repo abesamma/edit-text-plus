@@ -1,0 +1,9 @@
+{
+    "title": "$:/plugins/abraham/edit-text-plus",
+    "description": "Enhances native EditText widget",
+    "author": "Abraham Samma",
+    "version": "0.0.1",
+    "list": "readme",
+    "core-version": ">=5.0.8",
+    "plugin-type": "plugin"
+}

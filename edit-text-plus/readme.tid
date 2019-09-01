@@ -1,0 +1,11 @@
+title: $:/plugins/abraham/edit-text-plus/readme
+
+This plugin enhances TW5's native edit-text widget with the following HTML5 native features:
+
+# `min` attribute
+# `max` attribute
+# `step` attribute
+
+Usage:  `<$edit-text-plus />` with usual attributes, plus above.
+
+More //might// be added in the near future.
