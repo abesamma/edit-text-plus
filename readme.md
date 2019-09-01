@@ -9,3 +9,5 @@ Supported attributes include:
 3. `step`
 
 More attributes *might* be supported in the near term.
+
+[Click here](https://abesamma.github.io/edit-text-plus/) to see demo page.
